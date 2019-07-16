@@ -7,7 +7,7 @@
 
 **参与：**
 
-Redditer可直接前往[r/chinatimeline](https://www.reddit.com/r/chinatimeline/)提交新闻，可以是link或者自己写的文档，最好带上相关链接。
+Redditer可直接前往[r/chinatimeline](https://old.reddit.com/r/chinatimeline/)提交新闻，可以是link或者自己写的文档，最好带上相关链接。
 
 也可提交PR (Pull Request)添加事件，此外如果你希望创建新的图，可通过PR添加新的文件夹和csv格式数据文件
 1. 5分钟了解PR工作流程:
@@ -26,7 +26,11 @@ Redditer可直接前往[r/chinatimeline](https://www.reddit.com/r/chinatimeline/
 ├── ideology #中共意识形态保卫战
 │   ├── CCP_Ideology_Timeline.json #从CPC Brainwashing Timeline导出的原始数据（停用）
 │   ├── CCP_Ideology_Events.csv #事件数据文件
+│   ├── CCP_Religious_Persecution.csv #迫害宗教自由数据文件
 │   └── CCP_Presidential_term.csv #中共中央总书记任期（图中背景区块）
+├── OneBeltOneRoad # 一带一路
+│   ├── CCP_Presidential_term.csv #中共中央总书记任期（图中背景区块）
+│   └── OBOR_Events.csv # 一带一路相关事件
 └── US_CN_TradeWar #美中贸易战
     ├── Persidential_Term.csv #美中领导人任期（图中背景区块）
     └── TradeWar_Events.csv #贸易战相关事件数据文件
@@ -88,14 +92,22 @@ date,name,group,impact,description,
 
 参考 [Bloomberg](https://www.bloomberg.com/news/articles/2019-01-30/u-s-china-trade-war-timeline-what-s-happened-and-what-s-next)
 
+#### 1.2.3 文件夹 OneBeltOneRoad
+数据源: [新华网](http://www.xinhuanet.com/world/2019-04/26/c_1124418156.htm)
+
+参考: [World Bank: Belt and Road Initiative](https://www.worldbank.org/en/topic/regional-integration/brief/belt-and-road-initiative)
+
 ## 参考新闻源
 * 搜索引擎 [Google](https://google.com), [Startpage.com](https://startpage.com), [DuckDuckGo](https://duckduckgo.com/)
 * [中国数字时代](https://chinadigitaltimes.net/chinese/)
 * wikipedia的中国历史年表:[2008](https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86),[2009](https://zh.wikipedia.org/wiki/2009%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2010](https://zh.wikipedia.org/wiki/2010%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2011](https://zh.wikipedia.org/wiki/2011%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86),[2012](https://zh.wikipedia.org/wiki/2012%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2013](https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2014](https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2015](https://zh.wikipedia.org/wiki/2015%E5%B9%B4%E4%B8%AD%E5%9C%8B),[2016](https://zh.wikipedia.org/wiki/2016%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2017](https://zh.wikipedia.org/wiki/2017%E5%B9%B4%E4%B8%AD%E5%9B%BD),[2018](https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E4%B8%AD%E5%9B%BD)
 * 西方各大媒体
 * 中国官媒，政府网站
-* 宗教迫害：中华民国陆委会 [2000-2006](https://www.mac.gov.tw/cn/cp.aspx?n=DD102593FDB1A032), [大陆地区人权状况](https://www.mac.gov.tw/np.asp?ctNode=7351&mp=1)
+* 宗教迫害：中华民国陆委会 [迫害宗教自由事例 2000-2006](https://www.mac.gov.tw/cn/cp.aspx?n=DD102593FDB1A032), [大陆人权概况专区](https://www.mac.gov.tw/np.asp?ctNode=7351&mp=1)
+
+### 工具
+* 转换PDF为CSV [https://www.zamzar.com/](https://www.zamzar.com/)
 
 ---
 [MIT License](https://opensource.org/licenses/MIT) |
-Update: 2019-06-18
+Update: 2019-06-26

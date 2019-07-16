@@ -173,7 +173,7 @@ date,name,group,impact,description
 2009-06-18,“Google中国”因“涉黄”受《焦点访谈》报道及有关部门约谈,干预互联网市场,5,维基百科存档	https://archive.li/mRWkr
 2009-12-15,Google等二十余家大公司受到了来自中国的、复杂的网络攻击,干预互联网市场,5,https://googleblog.blogspot.com/2010/01/new-approach-to-china.html
 2012-11-09,Google.com和其子域名受到DNS污染12小时,数字监控和墙,2,https://zh.greatfire.org/blog/2012/nov/google-unblocked-again-was-it-mistake-or-test
-2014-06-02,Google所有服务受到GFW干扰,数字监控和墙,5,http://archivecaslytosk.onion/eZ5hm；https://archive.is/eZ5hm
+2014-06-02,Google所有服务受到GFW干扰,数字监控和墙,5,https://archive.md/eZ5hm；https://archive.is/eZ5hm
 2013-05-04,中组部、中宣部和教育部党组发布共16条的<br>《关于加强和改进高校青年教师思想政治工作的若干意见》,打击学术自由,5,相关报道 https://archive.li/fX3yL；https://web.archive.org/web/20190621131202/http://www.gov.cn/gzdt/2013-05/27/content_2412217.htm
 2017-06-16,中纪委批评14所大学意识形态工作不力,打击学术自由,5,金融时报相关报道 http://archive.is/eCm7k；新华网 http://archive.is/I62VZ
 2018-01-10,传清华大学毕业生增意识形态政审,打击学术自由,1,RFA报道 https://archive.is/0W0sj
@@ -246,3 +246,24 @@ date,name,group,impact,description
 2018-12-15,河北廊坊发布圣诞装饰禁令,文化文艺娱乐,5,https://archive.li/KoPOw
 2019-06-26,网传李克强所在北大77级法律系微信群被封，<br>腾讯副总回复“是上面命令，我们解不了。”,数字监控和墙,2,法广报道 https://archive.li/Sc4IK
 2019-05-05,中央文件：全面推行村党组织书记通过法定程序担任村委会主任,党团人事组织,5,https://archive.li/bfAYD
+2014-11-07,武汉大学要求5类人员上交因私护照通行证：<br>1 科研项目涉密人员；<br>2 学校中层副职及以上人员；<br>3 参公管理人员；<br>4 在职人员中具有副高级专业技术职务及以上人员、<br>副处级及以上非领导职务人员、六级及以上<br>职员、拥有博士学位者、财务人员；<br>5 离（退）休的厅（局）级以上干部,党团人事组织,5,https://archive.fo/tYHsj
+2014-11-28,中南民族大学要求8类人员上交护照通行证：<br>1.全校在职校、处级干部（包括享受处级待遇人员）；<br>2.离（退）休的副厅级以上干部；<br>3.具有高级职称的在职专业技术人员；<br>4.具有博士学位的在职人员；<br>5.承担重要科研项目的人员；<br>6.财务管理人员；<br>7.涉及学校资产安全及机密的人员；<br>8.学校认为有必要登记备案的其他人员。,党团人事组织,5,https://archive.md/2McKZ
+2015-06-19,人民网：北京“收紧”科级公务员出国 护照统一放保密柜,党团人事组织,5,https://archive.md/2jzXL
+2018-10-01,各地下发通知要求中小学教师上交因私护照通行证,党团人事组织,4,https://archive.md/KIs1K
+2016-10-19,新疆石河子通知当地居民上交护照，由公安统一保管,党团人事组织,4,https://archive.md/DDB9O
+2017-06-13,新华网 天津严管干部因私出国：科员每年也仅限一次,党团人事组织,5,https://archive.md/mQjEb
+2016-03-01,成都高校要求高级讲师上交护照 出国申请须承诺不“泄密”,党团人事组织,4,https://archive.md/LvVUh
+2019-02-08,中国收缴护照限制体制内人员出境，<br>目标人群扩展至教师及医护人员,党团人事组织,4,https://archive.md/9BRuL
+2014-03-16,中共中央组织部《关于进一步加强领导干部出国<br>（境）管理监督工作的通知》,党团人事组织,5,https://archive.vn/bEIXl
+2013-07-03,中办发〔2013〕16号关于进一步规范省部级以下<br>国家工作人员因公临时出国的意见,党团人事组织,5,https://archive.md/HEJLo
+2004-12-16,中共中央纪委、中共中央组织部、外交部、公安部、<br>国家安全部、监察部、人事部、商务部关于进一步加强<br>党员干部出国（境）管理的通知,党团人事组织,5,http://web.archive.org/web/20140324195241/http://cpc.people.com.cn/GB/64162/71380/102565/182145/11001085.html
+2015-04-09,组通字[2015]20号 中共中央组织部、公安部关于开展违规办理和持有因私出国(境)证件专项治理工作的通知,党团人事组织,5,https://web.archive.org/web/20190629012313/http://www.bjb.cas.cn/gzzd2016/rsczzb2016/201507/W020150702450171008435.pdf
+2019-06-28,国家网信办集中开展网络音频专项整治，网易云音乐、<br>荔枝FM、企鹅FM、喜马拉雅等26款有声应用<br>因公序良俗或历史虚无主义被下架,文化文艺娱乐,5,网信办新闻 http://archive.md/cgezH；报道 http://archive.md/u9WxW
+2019-07-04,湖北省原纪检监察组长被双开，包涵罕见罪名:购买、<br>阅读歪曲和攻击党的十八大组织路线、干部政策的书籍，<br>对有违背四项基本原则等严重政治问题的微信文章、图片<br>和小视频，不报告、不抵制、不斗争，并转发给他人，<br>造成不良影响,党团人事组织,4,新浪 https://archive.li/AZbGX；网易 https://archive.li/u8E1G
+2019-06-19,网传中共益阳市网信办下发《关于开展网络名人账号摸底工作的通知》,数字监控和墙,1,https://archive.li/D3DMQ
+2019-05-30,涉嫌辱习的游戏《還願》(Devotion)的中國大陸代理商<br>上海橘喵(Indievent)因「危害国家安全」吊销营业执照,文化文艺娱乐,5,香港01 https://archive.is/Q4Meu；维基百科 https://archive.md/twLQw
+2019-03-04,荷兰网安研究员爆中共蒐集监视国民隐私铁证<br>该系统自2018年起每天处理约3.6亿在线个资，用户被关联到真实身份<br>且每日送各地公安系统处理,数字监控和墙,5,https://archive.is/mKxtv
+2019-06-21,教育部下令自2020年起中止中学生赴美留学超前课程项目<br>Advanced Placement(AP)中境内考试中心的历史科目考试，<br>受影响科目为：美国历史、世界历史、欧洲历史、人类地理<br>其它科目暂不受影响,打击学术自由,5,路透社 https://archive.li/EpkqG
+2019-07-09,粉丝达200万的微信公众号“大唐雷音寺”被封，“大唐雷音寺”是梁宏达主持的脱口秀节目,干预互联网市场,5,https://archive.md/Jb9rH
+2013-10-11,习近平要各级党政部门在社会综合治理过程中<br>认识“枫桥经验”的重大意义，继承优良传统，<br>创新群众工作方法，贯彻好中共的群众路线。<br>“枫桥经验”90年后常见于中共维稳工作,党团人事组织,4,BBC中文 https://archive.li/uq22L；维基百科 https://archive.li/fvilB；https://web.archive.org/web/20190714114025/http://www.gov.cn/ldhd/2013-10/11/content_2504878.htm
+2018-11-12,人民日报、央视等喉舌相继推出赞扬枫桥经验的评论员文章<br>和纪录片《坚持发展“枫桥经验”——中国基层社会治理现代化之路》,党团人事组织,5,https://archive.li/OxZMr；https://archive.vn/0jZYq
